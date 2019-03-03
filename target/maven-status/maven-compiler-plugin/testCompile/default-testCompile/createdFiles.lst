@@ -1,0 +1,8 @@
+com/alibaba/dubbo/registry/nacos/NacosRegistryTest.class
+com/alibaba/dubbo/demo/provider/DemoServiceProviderBootstrap.class
+com/alibaba/dubbo/demo/provider/DemoServiceProviderXmlBootstrap.class
+com/alibaba/dubbo/demo/service/DemoService.class
+com/alibaba/dubbo/registry/nacos/NacosRegistryFactoryTest.class
+com/alibaba/dubbo/demo/service/DefaultService.class
+com/alibaba/dubbo/demo/consumer/DemoServiceConsumerXmlBootstrap.class
+com/alibaba/dubbo/demo/consumer/DemoServiceConsumerBootstrap.class
