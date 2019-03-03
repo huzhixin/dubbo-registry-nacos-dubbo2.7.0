@@ -5,7 +5,7 @@
 #### Spring boot 2.1.3+Dubbo2.7.0+nacos 0.9.0
 
 #### 源码来自：https://github.com/dubbo/dubbo-registry-nacos
-<properties>
+    <properties>
         <java.version>1.8</java.version>
         <dubbo.version>2.7.0</dubbo.version>
         <spring-boot.version>2.1.3.RELEASE</spring-boot.version>
